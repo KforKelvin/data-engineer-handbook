@@ -8,3 +8,4 @@ CREATE TABLE actor_films (
     FilmID text,
     PRIMARY KEY(ActorId, FilmId)
 )
+

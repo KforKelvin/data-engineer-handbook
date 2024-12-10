@@ -24,6 +24,7 @@
      current_season INTEGER,
      PRIMARY KEY (player_name, current_season)
  );
+-- drop table players
 
 
 
